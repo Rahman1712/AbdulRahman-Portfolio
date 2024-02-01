@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AbdulRahman-Portfolio/static/css/main.1255a770.css",
+    "main.js": "/AbdulRahman-Portfolio/static/js/main.31f79820.js",
+    "static/js/787.7da95b79.chunk.js": "/AbdulRahman-Portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/avatar.png": "/AbdulRahman-Portfolio/static/media/avatar.e4fc73638f76b86cfc2c.png",
+    "static/media/Abdul_Rahman_Resume.pdf": "/AbdulRahman-Portfolio/static/media/Abdul_Rahman_Resume.21fea9ec338e08532a56.pdf",
+    "static/media/medicarehealth.png": "/AbdulRahman-Portfolio/static/media/medicarehealth.b38dd073eebb35e4aaf7.png",
+    "static/media/home-main.svg": "/AbdulRahman-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/AbdulRahman-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/kafkarunaap.png": "/AbdulRahman-Portfolio/static/media/kafkarunaap.553e20d95fdb18bb9522.png",
+    "static/media/pckart-app.png": "/AbdulRahman-Portfolio/static/media/pckart-app.c0466fd7749aa4add9d8.png",
+    "static/media/dependency.png": "/AbdulRahman-Portfolio/static/media/dependency.c9d4811d370033b55ee5.png",
+    "static/media/supermarket.png": "/AbdulRahman-Portfolio/static/media/supermarket.8163c59a3fefbeeabf4f.png",
+    "static/media/home-bg.jpg": "/AbdulRahman-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/chatapp.png": "/AbdulRahman-Portfolio/static/media/chatapp.99fb1d8b46fdc45205dc.png",
+    "static/media/pre.svg": "/AbdulRahman-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/AbdulRahman-Portfolio/index.html",
+    "main.1255a770.css.map": "/AbdulRahman-Portfolio/static/css/main.1255a770.css.map",
+    "main.31f79820.js.map": "/AbdulRahman-Portfolio/static/js/main.31f79820.js.map",
+    "787.7da95b79.chunk.js.map": "/AbdulRahman-Portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1255a770.css",
+    "static/js/main.31f79820.js"
+  ]
+}
